@@ -17,3 +17,4 @@ Este proyecto implementa una API REST para administrar el catálogo de productos
    ```bash
    python cliente.py
    ```
+   
